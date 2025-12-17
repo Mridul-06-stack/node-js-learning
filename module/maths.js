@@ -7,4 +7,4 @@ function subtraction(x, y) {
 function multiplication(x, y) {
     return x * y;
 }   
-module.exports = { addition, subtraction, multiplication };
+module.exports = { addfn:addition, subfn:subtraction, multifn:multiplication };
