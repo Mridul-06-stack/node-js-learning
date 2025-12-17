@@ -1,2 +1,2 @@
-const {addfn,subfn,multifn}=require(./maths);
+const {addfn,subfn,multifn}=require("./maths");
 
