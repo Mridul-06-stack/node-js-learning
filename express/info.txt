@@ -1,0 +1,3 @@
+why we need exxpress 
+ as you already know due to  the use of normal node js we have to handle aour each route  seaparately( route is home page ,about page or any other page)
+ moreover we have to manage each method seaparately for each route but in express we can easily  do this because it provides flexibilty and also code  readablity
